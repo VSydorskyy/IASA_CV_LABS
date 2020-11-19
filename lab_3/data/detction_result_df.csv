@@ -1,0 +1,7 @@
+alg_name,percantage_of_founded_face,time,quality
+violla_default,0.7938976377952756,11min 41sec,some mistakes
+violla_mn5_sf3,0.18996062992125984,18min 17sec,very bad
+violla_mn1_sfdef,0.8969488188976378,11min 54sec,some mistakes
+violla_mn5_sf105,0.8219488188976378,49min 41sec,some mistakes
+hog,0.9052165354330709,57min 59sec,few mistakes
+cnn,0.9710629921259842,65hours 2min 23sec,nealy no mistakes

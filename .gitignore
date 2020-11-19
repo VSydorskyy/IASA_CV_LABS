@@ -1,1 +1,5 @@
 *.ipynb_checkpoints
+*__pycache__
+lab_3/Anno
+lab_3/logdirs
+.vscode
